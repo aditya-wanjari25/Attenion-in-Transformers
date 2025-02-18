@@ -23,7 +23,7 @@ Value: The item returned by a key in response to a query.
 ![Pasted Graphic 3](https://github.com/user-attachments/assets/4255f4c1-3156-4ccc-b4ac-e4327c1393b8)
 
 
-Prompt: Write a poem.
+Let's understand using an example - Prompt: Write a poem.
 
 1. Step 1: The Transformer converts each word into a word embedding.
 
